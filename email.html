@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>email</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+</head>
+<body>
+    <form action="" name = "frmEnvia" onsubmit="return  (verifica())">
+        <h1>Validação de E-mail</h1>
+        <label for="">Email:</label>
+        <input type="text" name="email"  onblur=" chegarEmail()">
+        <input type="submit" value="ENVIAR">
+        <li><a href="cpf.html">Valide seu cpf </a></li>
+    </form>
+    <div id="email"></div>
+
+    <script src='main.js'></script>
+</body>
+</html>
