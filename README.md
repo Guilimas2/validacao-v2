@@ -1,4 +1,4 @@
-# Cpf e do E-mail 
+# validação do Cpf e E-mail 
 ![telainicial](emailprint.jpeg) 
 ![telainicio](cpfprint.jpeg) 
 
@@ -10,6 +10,8 @@
  # validação do e-mail
  Quando você preenche o formulário, se esquecer de inserir o símbolo "@" e o ponto "." no campo de email, um alerta será exibido na parte superior da página informando que todos os campos devem ser preenchidos corretamente. Depois que todos os campos estiverem preenchidos corretamente, um botão na parte inferior do formulário será habilitado. Ao clicar neste botão, você será direcionado para a validação do seu CPF.
 
- 
+# codigo do javascript 
+* ![telainicio](MicrosoftTeams-image.png))
+* ![telainicio](foto.png)
 
 
